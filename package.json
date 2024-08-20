@@ -1,0 +1,19 @@
+{
+  "name": "modulo-1",
+  "version": "1.0.0",
+  "description": "Proyecto del modulo 1 del curso de Bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brian-sanchez/austral-bootstrap-1.git"
+  },
+  "author": "Brian Sanchez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brian-sanchez/austral-bootstrap-1/issues"
+  },
+  "homepage": "https://github.com/Brian-sanchez/austral-bootstrap-1#readme"
+}
